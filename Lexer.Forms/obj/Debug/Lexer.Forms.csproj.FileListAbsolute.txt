@@ -1,0 +1,10 @@
+C:\Projects\Lexer\Lexer.Forms\bin\Debug\Lexer.Forms.exe.config
+C:\Projects\Lexer\Lexer.Forms\bin\Debug\Lexer.Forms.exe
+C:\Projects\Lexer\Lexer.Forms\bin\Debug\Lexer.Forms.pdb
+C:\Projects\Lexer\Lexer.Forms\obj\Debug\Lexer.Forms.csprojAssemblyReference.cache
+C:\Projects\Lexer\Lexer.Forms\obj\Debug\Lexer.Forms.Properties.Resources.resources
+C:\Projects\Lexer\Lexer.Forms\obj\Debug\Lexer.Forms.Views.frmLexer.resources
+C:\Projects\Lexer\Lexer.Forms\obj\Debug\Lexer.Forms.csproj.GenerateResource.cache
+C:\Projects\Lexer\Lexer.Forms\obj\Debug\Lexer.Forms.csproj.CoreCompileInputs.cache
+C:\Projects\Lexer\Lexer.Forms\obj\Debug\Lexer.Forms.exe
+C:\Projects\Lexer\Lexer.Forms\obj\Debug\Lexer.Forms.pdb
